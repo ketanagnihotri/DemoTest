@@ -1,0 +1,17 @@
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\obj\Debug\DemoTests.csprojResolveAssemblyReference.cache
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\DemoTests.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\DemoTests.pdb
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.abstractions.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.assert.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.core.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.execution.desktop.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.assert.pdb
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.assert.xml
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.core.pdb
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.core.xml
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.execution.desktop.pdb
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.execution.desktop.xml
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\obj\Debug\DemoTests.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\obj\Debug\DemoTests.pdb
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Project\KanobiProjects\jenkinsDemo\DemoTests\DemoTests\bin\Debug\xunit.runner.utility.desktop.dll
