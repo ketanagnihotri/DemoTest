@@ -48,3 +48,4 @@ D:\MyGit\DemoTest\DemoTests\bin\Debug\xunit.execution.desktop.pdb
 D:\MyGit\DemoTest\DemoTests\bin\Debug\xunit.execution.desktop.xml
 D:\MyGit\DemoTest\DemoTests\obj\Debug\DemoTests.dll
 D:\MyGit\DemoTest\DemoTests\obj\Debug\DemoTests.pdb
+D:\MyGit\DemoTest\DemoTests\obj\Debug\DemoTests.csprojResolveAssemblyReference.cache
